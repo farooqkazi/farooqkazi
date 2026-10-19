@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Farooq Kazi — Tech Lead and Android Engineer in London" width="100%" />
+  <img src="assets/profile-banner.svg?v=68d64f2" alt="Farooq Kazi — Tech Lead and Android Engineer in London" width="100%" />
 </p>
 
 <p align="center"><strong>Tech Lead · Lead Android Developer · London</strong></p>

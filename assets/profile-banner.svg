@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1018"/>
+      <stop offset="1" stop-color="#111D29"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#7FD1FF"/>
+      <stop offset="1" stop-color="#7CE0C3"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#A4B5C8" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <path d="M0 286C176 242 268 321 431 273C590 226 679 272 804 226" stroke="#7CE0C3" stroke-opacity=".13" stroke-width="2"/>
+  <path d="M0 307C176 263 268 342 431 294C590 247 679 293 804 247" stroke="#7FD1FF" stroke-opacity=".1" stroke-width="2"/>
+  <rect x="72" y="54" width="7" height="232" rx="3.5" fill="url(#accent)"/>
+  <text x="108" y="132" fill="#EAF1F8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="59" font-weight="700" letter-spacing="-2">FAROOQ KAZI</text>
+  <text x="111" y="174" fill="#8FA3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" letter-spacing="2">TECH LEAD  /  ANDROID ENGINEER  /  LONDON</text>
+  <text x="111" y="222" fill="#D3DEE8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19">Thoughtful mobile products, from first sketch to release.</text>
+  <g transform="translate(882 73)">
+    <rect width="242" height="194" rx="20" fill="#101923" stroke="#2A3948"/>
+    <rect x="20" y="20" width="202" height="30" rx="8" fill="#172533"/>
+    <circle cx="37" cy="35" r="4" fill="#FF9B52"/>
+    <circle cx="52" cy="35" r="4" fill="#7CE0C3"/>
+    <circle cx="67" cy="35" r="4" fill="#7FD1FF"/>
+    <path d="M32 83L45 96L32 109M58 111H85" stroke="#7FD1FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="112" y="76" width="82" height="78" rx="14" fill="#18382F" stroke="#7CE0C3" stroke-opacity=".8"/>
+    <path d="M126 102L153 85L180 102V132H126V102Z" stroke="#7CE0C3" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M138 132V111H168V132" stroke="#7CE0C3" stroke-width="3" stroke-linejoin="round"/>
+    <circle cx="198" cy="162" r="5" fill="#FFCB6B"/>
+  </g>
+</svg>
